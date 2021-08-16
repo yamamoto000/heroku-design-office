@@ -44,11 +44,13 @@
                 </div>
             </div>
         </div>
-        <div class="container">
-            <p>送信完了しました。<br>ありがとうございました。</p>
-                <div class="button yellow">
-                    <a href="../">ホームに戻る</a>
-                </div>
+        <div class="form-wrap">
+            <div class="container">
+                <p class="center">送信完了しました。<br>ありがとうございました。</p>
+                    <div class="button yellow">
+                        <a href="../">ホームに戻る</a>
+                    </div>
+            </div>
         </div>
 
  
