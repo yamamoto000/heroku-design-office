@@ -1,0 +1,17 @@
+.button {
+    text-align: center;
+    margin-top: 45px;
+    a,input {
+        display: inline-block;
+        border-radius: 30px;
+        color: #171717;
+        padding: 15px 70px;
+        letter-spacing: 1px;
+    }
+}
+
+.button.yellow {
+    a,input {
+        background: #f7d43f;
+    }
+}

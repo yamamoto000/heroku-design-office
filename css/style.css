@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body .container {
+  padding: 0 15px;
+  padding: 0 120px; }
+body .section {
+  padding: 100px 0 50px; }
+  body .section .section-title {
+    display: flex;
+    align-items: center;
+    /* 垂直中心 */
+    margin-bottom: 50px; }
+    body .section .section-title p {
+      text-align: left; }
+  body .section .section-title:after {
+    border-top: 5px solid;
+    content: "";
+    width: 5em;
+    /* 線の長さ */ }
+  body .section .section-title:after {
+    margin-left: 2em;
+    /* 文字の左隣 */ }
+  body .section .section-foot {
+    margin-top: 50px; }
+body .section.contact {
+  background: url(../img/contact-bgi@2x.jpg); }
+  body .section.contact p {
+    color: white; }
+  body .section.contact .section-title:after {
+    color: white; }
+  body .section.contact .section-foot p {
+    color: #282f35; }
+body .button {
+  display: inline-block; }
+body .button.yellow {
+  background: #f7d43f; }
+body footer {
+  text-align: center;
+  padding: 35px 0; }
+
+/*# sourceMappingURL=style.css.map */
