@@ -506,5 +506,7 @@ footer {
     .form-wrap .error_message li {
       color: red;
       font-size: 16px; }
+  .form-wrap .center {
+    text-align: center; }
 
 /*# sourceMappingURL=common.css.map */
